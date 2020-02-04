@@ -1,0 +1,29 @@
+/*https://git.io/JedpK 2019 Tutrox*/
+
+body {
+  background-image: url("/tx.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+
+  margin: 30vh 10vw;
+
+  color: white;
+  font-size: 28px;
+  font-family: acuta, serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+h1, h2, h3 {
+  font-family: rig-solid-zero-halftone, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+a {
+  color: white;
+}
+
+p {
+  margin-top: -1rem;
+}
